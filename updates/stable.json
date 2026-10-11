@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "com.macrovideo.v380pro",
-  "versionCode": 219,
-  "versionName": "2.2.81-clean.219",
-  "url": "https://github.com/willbytee-sudo/v380-clean/releases/download/clean-219/V380Pro-2.2.81-CleanUpdates-219.apk",
+  "versionCode": 220,
+  "versionName": "2.2.81-clean.220",
+  "url": "https://github.com/willbytee-sudo/v380-clean/releases/download/clean-220/V380Pro-2.2.81-DownloadUX-220.apk",
   "sizeBytes": 218233731,
-  "sha256": "43586feb5d1300cd4ee601bf58d040817d503a23d94f6137d9e16d44ac783d5a",
-  "notes": "Actualizador propio desde GitHub y limpieza automática de instaladores temporales. Conserva tus cámaras, ajustes y vídeos guardados. Incluye la exportación MicroSD por intervalo a ×1 o ×2."
+  "sha256": "4bd639f5caacb59822775669ec44a79664135d84d1d993f91ce662780d91b338",
+  "notes": "Selector de horas con segundos y duraciones rápidas. Pausa opcional del visor, transferencia medida y resolución real. Se evita una copia intermedia al guardar un archivo completo compatible a ×1 con audio."
 }

@@ -2,7 +2,7 @@
 
 Versión modificada de V380 Pro 2.2.81 para dispositivos arm64-v8a, con firma propia.
 
-[Descargar la versión 2.2.81-clean.219](https://github.com/willbytee-sudo/v380-clean/releases/download/clean-219/V380Pro-2.2.81-CleanUpdates-219.apk) · [Cambios y comprobaciones](https://github.com/willbytee-sudo/v380-clean/releases/tag/clean-219)
+[Descargar la versión 2.2.81-clean.220](https://github.com/willbytee-sudo/v380-clean/releases/download/clean-220/V380Pro-2.2.81-DownloadUX-220.apk) · [Cambios y comprobaciones](https://github.com/willbytee-sudo/v380-clean/releases/tag/clean-220)
 
 ## Instalación y actualizaciones
 
@@ -25,3 +25,9 @@ Esta release pasó verificación local de firma, alineación, DEX y CRC, junto c
 La modificación no equivale a una garantía de ausencia total de tráfico del SDK original: las funciones remotas de cuenta, cámara y avisos pueden seguir necesitando servidores del proveedor.
 
 Para una actualización de Android se requiere el mismo paquete y una firma compatible: [documentación de Android](https://developer.android.com/google/play/app-updates).
+
+## Descargas de vídeo
+
+Selector de horas con segundos y duraciones rápidas. Pausa opcional del visor, transferencia medida y resolución real. Se evita una copia intermedia al guardar un archivo completo compatible a ×1 con audio.
+
+La descarga conserva la resolución que grabó la cámara. Elegir HD/SD en directo no cambia el archivo guardado en MicroSD. Guardar a ×2 reduce la duración de reproducción, no los datos que debe enviar la cámara. No se ha incorporado una conversión a SD ni se promete un multiplicador de velocidad de red. La velocidad indicada es una estimación basada en el crecimiento del archivo recibido.
